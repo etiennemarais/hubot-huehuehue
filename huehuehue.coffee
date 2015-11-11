@@ -20,7 +20,5 @@
 responses = require './data/responses.json'
 
 module.exports = (robot) ->
-    robot.respond "/(hue)+/i", (msg) ->
-        msg.send(
-            msg.random(responses)
-        )
+    robot.hear /(hue)+/i, (msg) ->
+        msg.send msg.random responses
