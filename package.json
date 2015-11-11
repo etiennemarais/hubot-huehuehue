@@ -1,0 +1,30 @@
+{
+    "name": "hubot-huehuehue",
+    "version": "1.0.0",
+    "description": "Hubot script addon that responds with a huehuehue meme gif.",
+    "main": "huehuehue.coffee",
+    "author": {
+        "name": "Etienne Marais",
+        "email": "etienne.marais@olx.com",
+        "url": "https://github.com/etiennemarais"
+    },
+    "keywords": [
+        "hubot",
+        "hubot-scripts",
+        "huehuehue",
+        "addon",
+        "slack",
+        "scripts"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/etiennemarais/hubot-huehuehue.git"
+    },
+    "bugs": {
+        "url": "https://github.com/etiennemarais/hubot-huehuehue/issues"
+    },
+    "dependencies": {
+        "coffee-script": "^1.9.0"
+    }
+}
