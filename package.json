@@ -1,6 +1,6 @@
 {
     "name": "hubot-huehuehue",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Hubot script addon that responds with a huehuehue meme gif.",
     "main": "huehuehue.coffee",
     "author": {
